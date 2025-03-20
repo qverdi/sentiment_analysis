@@ -1,7 +1,7 @@
 <h1 align="center">Simple sentiment analysis app</h1>
 
 <p align="center">
-  <a href="https://greenai-report.streamlit.app/">
+  <a href="https://simple-sentiment-analysis.streamlit.app/">
     <img src="https://img.shields.io/badge/Deployed%20on-Streamlit-red?logo=streamlit">
   </a>
   <a href="https://www.nltk.org/">
