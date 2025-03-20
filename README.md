@@ -10,11 +10,21 @@
 </p>
 
 
-### Installation
-To run the app you need to have installed:
+### Set up
+Requirements:
+- python v.3.10.6
 
-- streamlit
-- nltk
+To install the app run the following command:
+
+```sh
+pip install -r requirements.txt
+```
+
+To run the app run the following command:
+
+```sh
+streamlit run app.py
+```
 
 
 ### Sentiment analysis
